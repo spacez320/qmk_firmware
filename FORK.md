@@ -41,7 +41,7 @@ Using keymap `spacez320` the file to edit is
 `keyboards/keebio/iris/keymaps/spacez320/keymap.c`.
 
 Theoretically after this you can run `qmk flash`, however I was not able to get
-this to work from the command-line and instead has to resort to using the QMK
+this to work from the command-line and instead had to resort to using the QMK
 Toolbox on MacOSX.
 
 Both sides of the keyboard must be flashed independently.
